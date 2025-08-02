@@ -14,8 +14,6 @@ This repository documents my personal step-by-step setup of the RISC-V GCC Toolc
 
     Memory: 8 GB RAM
 
-    Disk: 100+ GB free
-
     User: priyansh
 
     Hostname: rocky8
